@@ -7,6 +7,6 @@ I am passionate about uncovering patterns and insights that drive business decis
 📬 How to Reach Me
 📩 Email: mitesh.parihar2004@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/mitesh-parihar/
-🚀 GitHub: github.com/mitesh643
+🚀 GitHub: https://github.com/mitesh643
 
 Feel free to explore my repositories, contribute, and connect. Let’s collaborate on exciting data projects! 😊
